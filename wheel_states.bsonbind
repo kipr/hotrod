@@ -1,0 +1,5 @@
+%package hotrod
+wheel_state w0
+wheel_state w1
+wheel_state w2
+wheel_state w3

@@ -1,0 +1,5 @@
+%package hotrod
+string mode!
+bool open_loop!
+real32 position
+real32 velocity!
